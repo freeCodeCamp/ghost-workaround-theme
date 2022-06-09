@@ -1,4 +1,4 @@
-# Temporary News Theme
+# Ghost workaround theme
 
 This is a slightly modified version of the default Casper theme for [Ghost](http://github.com/tryghost/ghost/). The changes here should serve as a temporary fix for draft previews.
 
