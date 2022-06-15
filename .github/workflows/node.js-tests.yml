@@ -1,8 +1,5 @@
 name: CI - Node.js Test
 on:
-  push:
-    branches-ignore:
-      - 'renovate/**'
   pull_request:
 
 permissions:
