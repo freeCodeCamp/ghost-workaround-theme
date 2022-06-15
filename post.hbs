@@ -8,7 +8,7 @@ into the {body} tag of the default.hbs template --}}
 {{!-- Everything inside the #post block pulls data from the post --}}
 
 <main id="site-main" class="site-main">
-<article class="article {{post_class}} image-full">
+<article class="article {{post_class}}">
 
     <header class="article-header gh-canvas">
 
@@ -24,10 +24,6 @@ into the {body} tag of the default.hbs template --}}
         </div>
 
         <h1 class="article-title">{{title}}</h1>
-
-        {{#if custom_excerpt}}
-            <p class="article-excerpt">{{custom_excerpt}}</p>
-        {{/if}}
 
         <div class="article-byline">
         <section class="article-byline-content">
