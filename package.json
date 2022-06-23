@@ -10,8 +10,8 @@
   "scripts": {
     "dev": "gulp",
     "zip": "gulp zip",
-    "test": "gscan . --verbose",
-    "test:ci": "gscan . --fatal --verbose .",
+    "test": "gscan . --fatal --verbose .",
+    "test:ci": "npm run test",
     "pretest": "gulp build"
   },
   "gpm": {
