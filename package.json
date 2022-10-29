@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@tryghost/release-utils": "0.8.1",
-    "autoprefixer": "10.4.12",
+    "autoprefixer": "10.4.13",
     "beeper": "2.1.0",
     "cssnano": "5.1.13",
     "gscan": "4.34.0",
