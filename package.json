@@ -23,10 +23,10 @@
   },
   "devDependencies": {
     "@tryghost/release-utils": "0.8.1",
-    "autoprefixer": "10.4.16",
+    "autoprefixer": "10.4.19",
     "beeper": "2.1.0",
     "cssnano": "5.1.15",
-    "gscan": "4.40.0",
+    "gscan": "4.43.1",
     "gulp": "4.0.2",
     "gulp-concat": "2.6.1",
     "gulp-livereload": "4.0.2",
@@ -34,7 +34,7 @@
     "gulp-uglify": "3.0.2",
     "gulp-zip": "5.1.0",
     "inquirer": "8.2.6",
-    "postcss": "8.4.31",
+    "postcss": "8.4.39",
     "postcss-color-mod-function": "3.0.3",
     "postcss-easy-import": "4.0.0",
     "pump": "3.0.0"
